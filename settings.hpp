@@ -1,0 +1,2 @@
+#define ALGORITHMTOTEST quick_sort
+#define MAXNUMBERINVECS 1000
